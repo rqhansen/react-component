@@ -1,0 +1,16 @@
+.app {
+  height: 100%;
+  line-height: 500px;
+  text-align: center;
+  color: #fff;
+}
+.slide-page {
+  background-color: orange;
+}
+.slide-page:nth-child(2) {
+  background-color: green;
+} 
+.slide-page:nth-child(3) {
+  background-color: blue;
+}
+
